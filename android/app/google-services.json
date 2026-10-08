@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846330832048",
+    "project_id": "canindo-userregistration",
+    "storage_bucket": "canindo-userregistration.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846330832048:android:6c45cc9f1184ab7d088775",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtRKVhymt730ZeUaHXVIgxPzOPhLSwik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
